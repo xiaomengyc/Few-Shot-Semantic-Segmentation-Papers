@@ -1,4 +1,4 @@
-# Few-Shot-Semantic-Segmentation
+# Few Shot Semantic Segmentation Papers
 
 
 ## 2019
