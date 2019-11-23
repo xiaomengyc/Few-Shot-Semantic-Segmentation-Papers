@@ -9,9 +9,9 @@
 * Feature Weighting and Boosting for Few-Shot Segmentation (ICCV)[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf)
 
 ## 2018
-* SG-One: Similarity Guidance Network for One-Shot Semantic Segmentation [PDF](https://arxiv.org/abs/1810.09091)[CODE](https://github.com/xiaomengyc/SG-One)
+* SG-One: Similarity Guidance Network for One-Shot Semantic Segmentation [PDF](https://arxiv.org/abs/1810.09091) [CODE](https://github.com/xiaomengyc/SG-One)
 * Conditional networks for few-shot semantic segmentation [PDF](https://openreview.net/pdf?id=SkMjFKJwG)
-# Few-Shot Semantic Segmentation with Prototype Learning (BMVC) [PDF](http://bmvc2018.org/contents/papers/0255.pdf) 
+* Few-Shot Semantic Segmentation with Prototype Learning (BMVC) [PDF](http://bmvc2018.org/contents/papers/0255.pdf) 
 
 ## 2017
 * One-Shot Learning for Semantic Segmentation (BMVC) [PDF](https://arxiv.org/abs/1709.03410)
