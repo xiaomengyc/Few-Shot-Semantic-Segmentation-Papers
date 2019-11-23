@@ -10,6 +10,8 @@
 | SSAP: Single-Shot Instance Segmentation With Affinity Pyramid | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_SSAP_Single-Shot_Instance_Segmentation_With_Affinity_Pyramid_ICCV_2019_paper.pdf) | - |
 | Feature Weighting and Boosting for Few-Shot Segmentation |  ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) | - |
 
+| CANet: Class-Agnostic Segmentation Networks With Iterative Refinement and Attentive Few-Shot Learning | CVPR | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CANet_Class-Agnostic_Segmentation_Networks_With_Iterative_Refinement_and_Attentive_Few-Shot_CVPR_2019_paper.pdf) | - |
+
 ## 2018
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
