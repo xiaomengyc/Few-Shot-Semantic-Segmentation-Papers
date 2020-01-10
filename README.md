@@ -2,6 +2,12 @@
 
 *NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers/issues) or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%fewshot%papers).
 
+## 2020
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Differentiable Meta-learning Model for Few-shot Semantic Segmentation | AAAI | [PDF](https://arxiv.org/pdf/1911.10371.pdf) | - |
+
+
 ## 2019
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
