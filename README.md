@@ -6,6 +6,8 @@
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | Differentiable Meta-learning Model for Few-shot Semantic Segmentation | AAAI | [PDF](https://arxiv.org/pdf/1911.10371.pdf) | - |
+| Prototype Refinement Network for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2002.03579.pdf) | - |
+| Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs | arXiv | [PDF](https://arxiv.org/pdf/2001.09540.pdf) |
 
 
 ## 2019
@@ -18,6 +20,8 @@
 | Feature Weighting and Boosting for Few-Shot Segmentation |  ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) | - |
 | CANet: Class-Agnostic Segmentation Networks With Iterative Refinement and Attentive Few-Shot Learning | CVPR | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CANet_Class-Agnostic_Segmentation_Networks_With_Iterative_Refinement_and_Attentive_Few-Shot_CVPR_2019_paper.pdf) | - |
 | Adaptive Masked Weight Imprinting for Few-Shot Segmentation | ICLRW | [PDF](https://openreview.net/pdf?id=SkeoV4yZUV) | - |
+| A New Local Transformation Module for Few-Shot Segmentation | MMMM | [PDF](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_7) |
+| A New Few-shot Segmentation Network Based on Class Representation | arXiv | [PDF](https://arxiv.org/pdf/1909.08754.pdf) |
 
 ## 2018
 | Title | Venue | PDF | CODE |
