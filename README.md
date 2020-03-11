@@ -5,6 +5,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| On the Texture Bias for Few-Shot CNN Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
 | Differentiable Meta-learning Model for Few-shot Semantic Segmentation | AAAI | [PDF](https://arxiv.org/pdf/1911.10371.pdf) | - |
 | Prototype Refinement Network for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2002.03579.pdf) | - |
 | Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs | arXiv | [PDF](https://arxiv.org/pdf/2001.09540.pdf) |
