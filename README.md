@@ -5,6 +5,11 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| CAFENet: Class-Agnostic Few-Shot Edge Detection Network | arXiv | [PDF](https://arxiv.org/pdf/2003.08235.pdf) | - |
+| Objectness-Aware One-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.02945.pdf) | - |
+| FGN: Fully Guided Network for Few-Shot Instance Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.13954.pdf) | - |
+| CRNet: Cross-Reference Networks for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.10658.pdf) | - |
+| Self-Supervised Tuning for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.05538.pdf) | - |
 | On the Texture Bias for Few-Shot CNN Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
 | Differentiable Meta-learning Model for Few-shot Semantic Segmentation | AAAI | [PDF](https://arxiv.org/pdf/1911.10371.pdf) | - |
 | Prototype Refinement Network for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2002.03579.pdf) | - |
