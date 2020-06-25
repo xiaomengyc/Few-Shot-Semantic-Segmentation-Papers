@@ -5,6 +5,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| SG-One: Similarity Guidance Network for One-Shot Semantic Segmentation | TCYB | [PDF](https://arxiv.org/abs/1810.09091) | [CODE](https://github.com/xiaomengyc/SG-One)|
 | CAFENet: Class-Agnostic Few-Shot Edge Detection Network | arXiv | [PDF](https://arxiv.org/pdf/2003.08235.pdf) | - |
 | Objectness-Aware One-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.02945.pdf) | - |
 | FGN: Fully Guided Network for Few-Shot Instance Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.13954.pdf) | - |
@@ -19,6 +20,7 @@
 ## 2019
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| A deep one-shot network for query-based logo retrieval | PR | [PDF](https://arxiv.org/pdf/1811.01395.pdf) | - |
 | PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_PANet_Few-Shot_Image_Semantic_Segmentation_With_Prototype_Alignment_ICCV_2019_paper.pdf) | [CODE](https://github.com/kaixin96/PANet) |
 | Pyramid Graph Networks with Connection Attentions for Region-Based One-Shot Semantic Segmentation | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Pyramid_Graph_Networks_With_Connection_Attentions_for_Region-Based_One-Shot_Semantic_ICCV_2019_paper.pdf)| - |
 | AMP: Adaptive Masked Proxies for Few-Shot Segmentation | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Siam_AMP_Adaptive_Masked_Proxies_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) | [CODE](https://github.com/MSiam/AdaptiveMaskedProxies) |
@@ -32,7 +34,6 @@
 ## 2018
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
-| SG-One: Similarity Guidance Network for One-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/abs/1810.09091) | [CODE](https://github.com/xiaomengyc/SG-One)|
 | Conditional networks for few-shot semantic segmentation | ICLRW | [PDF](https://openreview.net/pdf?id=SkMjFKJwG) |  [CODE](https://github.com/shelhamer/revolver)  |
 | Few-Shot Semantic Segmentation with Prototype Learning | BMVC | [PDF](http://bmvc2018.org/contents/papers/0255.pdf) | - |
 
