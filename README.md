@@ -5,6 +5,8 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Objectness-Aware One-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.02945.pdf) | - |
+| Self-Supervised Tuning for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.05538.pdf) | - |
 | SG-One: Similarity Guidance Network for One-Shot Semantic Segmentation | TCYB | [PDF](https://arxiv.org/abs/1810.09091) | [CODE](https://github.com/xiaomengyc/SG-One)|
 | CAFENet: Class-Agnostic Few-Shot Edge Detection Network | arXiv | [PDF](https://arxiv.org/pdf/2003.08235.pdf) | - |
 | Objectness-Aware One-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.02945.pdf) | - |
