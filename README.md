@@ -5,6 +5,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+|  PFENet: Prior Guided Feature Enrichment Network for Few-shot Segmentation| TPAMI | [PDF](https://arxiv.org/pdf/2008.01449.pdf) | [CODE](https://github.com/Jia-Research-Lab/PFENet) |
 | Part-aware Prototype Network for Few-shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2007.06309.pdf) | - |
 | SimPropNet: Improved Similarity Propagation for Few-shot Image Segmentation | IJCAI | [PDF](https://arxiv.org/pdf/2004.15014.pdf) | - |
 | Objectness-Aware One-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.02945.pdf) | - |
