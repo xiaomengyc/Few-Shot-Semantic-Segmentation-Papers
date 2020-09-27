@@ -5,6 +5,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Few-Shot Semantic Segmentation with Democratic Attention Networks | ECCV | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580715.pdf) | - |
 | Prototype Mixture Models for Few-shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2008.03898.pdf) | [CODE](https://github.com/Yang-Bob/PMMs) |
 |  PFENet: Prior Guided Feature Enrichment Network for Few-shot Segmentation| TPAMI | [PDF](https://arxiv.org/pdf/2008.01449.pdf) | [CODE](https://github.com/Jia-Research-Lab/PFENet) |
 | Part-aware Prototype Network for Few-shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2007.06309.pdf) | [CODE](https://github.com/Xiangyi1996/PPNet-PyTorch) |
