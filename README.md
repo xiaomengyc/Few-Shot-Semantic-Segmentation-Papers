@@ -5,6 +5,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation | CVPR | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_FSS-1000_A_1000-Class_Dataset_for_Few-Shot_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/HKUSTCV/FSS-1000) |
 | Few-Shot Semantic Segmentation with Democratic Attention Networks | ECCV | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580715.pdf) | - |
 | Prototype Mixture Models for Few-shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2008.03898.pdf) | [CODE](https://github.com/Yang-Bob/PMMs) |
 |  PFENet: Prior Guided Feature Enrichment Network for Few-shot Segmentation| TPAMI | [PDF](https://arxiv.org/pdf/2008.01449.pdf) | [CODE](https://github.com/Jia-Research-Lab/PFENet) |
