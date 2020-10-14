@@ -5,6 +5,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation | ECCV | [PDF](https://arxiv.org/pdf/2007.09886v2.pdf) | [CODE](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) |
 | Generalized Few-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2010.05210.pdf) | - |
 | FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation | CVPR | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_FSS-1000_A_1000-Class_Dataset_for_Few-Shot_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/HKUSTCV/FSS-1000) |
 | Few-Shot Semantic Segmentation with Democratic Attention Networks | ECCV | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580715.pdf) | - |
