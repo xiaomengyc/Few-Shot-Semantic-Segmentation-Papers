@@ -17,9 +17,8 @@
 | Self-Supervised Tuning for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.05538.pdf) | - |
 | SG-One: Similarity Guidance Network for One-Shot Semantic Segmentation | TCYB | [PDF](https://arxiv.org/abs/1810.09091) | [CODE](https://github.com/xiaomengyc/SG-One)|
 | CAFENet: Class-Agnostic Few-Shot Edge Detection Network | arXiv | [PDF](https://arxiv.org/pdf/2003.08235.pdf) | - |
-| Objectness-Aware One-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.02945.pdf) | - |
 | FGN: Fully Guided Network for Few-Shot Instance Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.13954.pdf) | - |
-| CRNet: Cross-Reference Networks for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.10658.pdf) | - |
+| CRNet: Cross-Reference Networks for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2003.10658.pdf) | - |
 | Self-Supervised Tuning for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.05538.pdf) | - |
 | On the Texture Bias for Few-Shot CNN Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
 | Differentiable Meta-learning Model for Few-shot Semantic Segmentation | AAAI | [PDF](https://arxiv.org/pdf/1911.10371.pdf) | - |
@@ -34,7 +33,6 @@
 | PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_PANet_Few-Shot_Image_Semantic_Segmentation_With_Prototype_Alignment_ICCV_2019_paper.pdf) | [CODE](https://github.com/kaixin96/PANet) |
 | Pyramid Graph Networks with Connection Attentions for Region-Based One-Shot Semantic Segmentation | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Pyramid_Graph_Networks_With_Connection_Attentions_for_Region-Based_One-Shot_Semantic_ICCV_2019_paper.pdf)| - |
 | AMP: Adaptive Masked Proxies for Few-Shot Segmentation | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Siam_AMP_Adaptive_Masked_Proxies_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) | [CODE](https://github.com/MSiam/AdaptiveMaskedProxies) |
-| SSAP: Single-Shot Instance Segmentation With Affinity Pyramid | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_SSAP_Single-Shot_Instance_Segmentation_With_Affinity_Pyramid_ICCV_2019_paper.pdf) | - |
 | Feature Weighting and Boosting for Few-Shot Segmentation |  ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) | - |
 | CANet: Class-Agnostic Segmentation Networks With Iterative Refinement and Attentive Few-Shot Learning | CVPR | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CANet_Class-Agnostic_Segmentation_Networks_With_Iterative_Refinement_and_Attentive_Few-Shot_CVPR_2019_paper.pdf) | [CODE](https://github.com/icoz69/CaNet) |
 | Adaptive Masked Weight Imprinting for Few-Shot Segmentation | ICLRW | [PDF](https://openreview.net/pdf?id=SkeoV4yZUV) | - |
