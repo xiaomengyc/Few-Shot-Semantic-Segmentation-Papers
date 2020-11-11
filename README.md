@@ -18,7 +18,7 @@
 | Self-Supervised Tuning for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.05538.pdf) | - |
 | SG-One: Similarity Guidance Network for One-Shot Semantic Segmentation | TCYB | [PDF](https://arxiv.org/abs/1810.09091) | [CODE](https://github.com/xiaomengyc/SG-One)|
 | CAFENet: Class-Agnostic Few-Shot Edge Detection Network | arXiv | [PDF](https://arxiv.org/pdf/2003.08235.pdf) | - |
-| FGN: Fully Guided Network for Few-Shot Instance Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.13954.pdf) | - |
+| FGN: Fully Guided Network for Few-Shot Instance Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2003.13954.pdf) | - |
 | CRNet: Cross-Reference Networks for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2003.10658.pdf) | - |
 | Self-Supervised Tuning for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.05538.pdf) | - |
 | On the Texture Bias for Few-Shot CNN Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
