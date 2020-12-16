@@ -5,7 +5,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
-｜   Meta-Learning Initializations for Image Segmentation ｜ NeurIPS-W | [PDF](https://meta-learn.github.io/2020/papers/44_paper.pdf) | [CODE](https://github.com/ml4ai/mliis) |
+| Meta-Learning Initializations for Image Segmentation | NeurIPS-W | [PDF](https://meta-learn.github.io/2020/papers/44_paper.pdf) | [CODE](https://github.com/ml4ai/mliis) |
 | BriNet: Towards Bridging the Intra-class and Inter-class Gaps in One-Shot Segmentation | arXiv |[PDF](https://arxiv.org/pdf/2008.06226.pdf) | [CODE](https://github.com/Wi-sc/BriNet) |
 | Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation | ECCV | [PDF](https://arxiv.org/pdf/2007.09886v2.pdf) | [CODE](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) |
 | Generalized Few-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2010.05210.pdf) | - |
