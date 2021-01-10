@@ -2,9 +2,17 @@
 
 *NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers/issues) or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%fewshot%papers).
 
+## 2021
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| On the Texture Bias for Few-Shot CNN Segmentation | WACV | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
+
+
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Semi-supervised few-shot learning for medical image segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.08462.pdf) | - |
+| Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need? | arXiv | [PDF](https://arxiv.org/pdf/2012.06166.pdf) | [CODE](https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation) |
 | Meta-Learning Initializations for Image Segmentation | NeurIPS-W | [PDF](https://meta-learn.github.io/2020/papers/44_paper.pdf) | [CODE](https://github.com/ml4ai/mliis) |
 | BriNet: Towards Bridging the Intra-class and Inter-class Gaps in One-Shot Segmentation | arXiv |[PDF](https://arxiv.org/pdf/2008.06226.pdf) | [CODE](https://github.com/Wi-sc/BriNet) |
 | Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation | ECCV | [PDF](https://arxiv.org/pdf/2007.09886v2.pdf) | [CODE](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) |
@@ -21,8 +29,6 @@
 | CAFENet: Class-Agnostic Few-Shot Edge Detection Network | arXiv | [PDF](https://arxiv.org/pdf/2003.08235.pdf) | - |
 | FGN: Fully Guided Network for Few-Shot Instance Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2003.13954.pdf) | - |
 | CRNet: Cross-Reference Networks for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2003.10658.pdf) | - |
-| Self-Supervised Tuning for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.05538.pdf) | - |
-| On the Texture Bias for Few-Shot CNN Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
 | Differentiable Meta-learning Model for Few-shot Semantic Segmentation | AAAI | [PDF](https://arxiv.org/pdf/1911.10371.pdf) | - |
 | Prototype Refinement Network for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2002.03579.pdf) | - |
 | Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs | arXiv | [PDF](https://arxiv.org/pdf/2001.09540.pdf) |
