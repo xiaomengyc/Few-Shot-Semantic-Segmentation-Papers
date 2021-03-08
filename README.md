@@ -11,6 +11,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Dynamic Extension Nets for Few-shot Semantic Segmentation | MM | [PDF](https://dl.acm.org/doi/abs/10.1145/3394171.3413915) | [CODE](https://github.com/lizhaoliu-Lec/DENet) |
 | Semi-supervised few-shot learning for medical image segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.08462.pdf) | [CODE](https://github.com/fayjie92/FSMS-Surrogate) |
 | Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need? | arXiv | [PDF](https://arxiv.org/pdf/2012.06166.pdf) | [CODE](https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation) |
 | Meta-Learning Initializations for Image Segmentation | NeurIPS-W | [PDF](https://meta-learn.github.io/2020/papers/44_paper.pdf) | [CODE](https://github.com/ml4ai/mliis) |
