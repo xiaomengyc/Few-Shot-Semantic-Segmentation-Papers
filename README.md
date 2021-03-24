@@ -33,7 +33,7 @@
 | CRNet: Cross-Reference Networks for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2003.10658.pdf) | - |
 | Differentiable Meta-learning Model for Few-shot Semantic Segmentation | AAAI | [PDF](https://arxiv.org/pdf/1911.10371.pdf) | - |
 | Prototype Refinement Network for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2002.03579.pdf) | - |
-| Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs | arXiv | [PDF](https://arxiv.org/pdf/2001.09540.pdf) |
+| Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings | IJCAI | [PDF](https://www.ijcai.org/Proceedings/2020/0120.pdf) |
 
 
 ## 2019
