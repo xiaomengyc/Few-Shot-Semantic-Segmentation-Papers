@@ -11,6 +11,7 @@
 | On the Texture Bias for Few-Shot CNN Segmentation | WACV | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
 | Deep Gaussian Processes for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2103.16549.pdf) | - |
 | Hypercorrelation Squeeze for Few-Shot Segmenation | arXiv | [PDF](https://arxiv.org/pdf/2104.01538.pdf) | [CODE](https://github.com/juhongm999/hsnet) |
+| Mining Latent Classes for Few-shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2103.15402.pdf) | - |
 
 
 ## 2020
