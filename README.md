@@ -6,7 +6,7 @@
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | Progressive One-Shot Human Parsing | AAAI | [PDF](https://arxiv.org/pdf/2012.11810.pdf) | [CODE](https://github.com/Charleshhy/One-shot-Human-Parsing) |
-| Bidirectional RNN-based Few Shot Learning for 3D Medical Image Segmentation | AAAI | [PDF](https://arxiv.org/pdf/2011.09608.pdf) | [CODE](https://github.com/oopil/3D_medical_image_FSS) |
+| Bidirectional RNN-based Few Shot Learning for 3D Medical Image Segmentation | AAAI | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16275) | [CODE](https://github.com/oopil/3D_medical_image_FSS) |
 | Adaptive Prototype Learning and Allocation for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2104.01893.pdf) | [CODE](https://github.com/Reagan1311/ASGNet) |
 | Self-Guided and Cross-Guided Learning for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2103.16129.pdf) | [CODE](https://github.com/zbf1991/SCL) |
 | Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need? | CVPR  | [PDF](https://arxiv.org/pdf/2012.06166.pdf) | [CODE](https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation) |
