@@ -5,6 +5,7 @@
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Hypercorrelation Squeeze for Few-Shot Segmenation | ICCV | [PDF](https://arxiv.org/pdf/2104.01538.pdf) | [CODE](https://github.com/juhongm999/hsnet) |
 | Progressive One-Shot Human Parsing | AAAI | [PDF](https://arxiv.org/pdf/2012.11810.pdf) | [CODE](https://github.com/Charleshhy/One-shot-Human-Parsing) |
 | Bidirectional RNN-based Few Shot Learning for 3D Medical Image Segmentation | AAAI | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16275) | [CODE](https://github.com/oopil/3D_medical_image_FSS) |
 | Adaptive Prototype Learning and Allocation for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2104.01893.pdf) | [CODE](https://github.com/Reagan1311/ASGNet) |
@@ -13,7 +14,6 @@
 | On the Texture Bias for Few-Shot CNN Segmentation | WACV | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
 | A Location-Sensitive Local Prototype Network for Few-Shot Medical Image Segmentation | ISBI | [PDF](https://arxiv.org/pdf/2103.10178.pdf) | - |
 | Deep Gaussian Processes for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2103.16549.pdf) | - |
-| Hypercorrelation Squeeze for Few-Shot Segmenation | arXiv | [PDF](https://arxiv.org/pdf/2104.01538.pdf) | [CODE](https://github.com/juhongm999/hsnet) |
 | Mining Latent Classes for Few-shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2103.15402.pdf) | - |
 | End-to-end One-shot Human Parsing | arXiv | [PDF](https://arxiv.org/pdf/2105.01241.pdf) | - |
 
