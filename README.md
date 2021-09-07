@@ -14,10 +14,12 @@
 | Adaptive Prototype Learning and Allocation for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2104.01893.pdf) | [CODE](https://github.com/Reagan1311/ASGNet) |
 | Self-Guided and Cross-Guided Learning for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2103.16129.pdf) | [CODE](https://github.com/zbf1991/SCL) |
 | Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need? | CVPR  | [PDF](https://arxiv.org/pdf/2012.06166.pdf) | [CODE](https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation) |
+| The Role of Data for One-Shot Semantic Segmentation | CVPRW | [PDF](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Luddecke_The_Role_of_Data_for_One-Shot_Semantic_Segmentation_CVPRW_2021_paper.pdf) | - |
 | On the Texture Bias for Few-Shot CNN Segmentation | WACV | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
 | A Location-Sensitive Local Prototype Network for Few-Shot Medical Image Segmentation | ISBI | [PDF](https://arxiv.org/pdf/2103.10178.pdf) | - |
 | Deep Gaussian Processes for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2103.16549.pdf) | - |
 | End-to-end One-shot Human Parsing | arXiv | [PDF](https://arxiv.org/pdf/2105.01241.pdf) | - |
+| Few-Shot Segmentation with Global and Local Contrastive Learning | arXiv | [PDF](https://arxiv.org/pdf/2108.05293.pdf) | - |
 
 
 ## 2020
