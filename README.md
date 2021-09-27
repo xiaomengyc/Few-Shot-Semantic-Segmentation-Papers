@@ -6,6 +6,7 @@
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | Rich Embedding Features for One-Shot Semantic Segmentation | TNNLS | [PDF](https://ieeexplore.ieee.org/abstract/document/9463398) | - |
+| Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer| ICCV | [PDF](https://arxiv.org/pdf/2108.03032.pdf) | [CODE](https://github.com/zhiheLu/CWT-for-FSS) |
 | Hypercorrelation Squeeze for Few-Shot Segmenation | ICCV | [PDF](https://arxiv.org/pdf/2104.01538.pdf) | [CODE](https://github.com/juhongm999/hsnet) |
 | Mining Latent Classes for Few-shot Segmentation | ICCV | [PDF](https://arxiv.org/pdf/2103.15402.pdf) | [CODE](https://github.com/LiheYoung/MiningFSS) |
 | Progressive One-Shot Human Parsing | AAAI | [PDF](https://arxiv.org/pdf/2012.11810.pdf) | [CODE](https://github.com/Charleshhy/One-shot-Human-Parsing) |
