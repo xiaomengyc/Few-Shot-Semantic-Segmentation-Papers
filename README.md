@@ -21,6 +21,7 @@
 | End-to-end One-shot Human Parsing | arXiv | [PDF](https://arxiv.org/pdf/2105.01241.pdf) | - |
 | Few-Shot Segmentation with Global and Local Contrastive Learning | arXiv | [PDF](https://arxiv.org/pdf/2108.05293.pdf) | - |
 | Few-shot Segmentation with Optimal Transport Matching and Message Flow | arXiv | [PDF](https://arxiv.org/pdf/2108.08518.pdf) | - |
+| Uncertainty-Aware Semi-Supervised Few Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2110.08954.pdf) | - |
 
 
 ## 2020
