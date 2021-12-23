@@ -24,6 +24,7 @@
 | Few-Shot Segmentation with Global and Local Contrastive Learning | arXiv | [PDF](https://arxiv.org/pdf/2108.05293.pdf) | - |
 | Few-shot Segmentation with Optimal Transport Matching and Message Flow | arXiv | [PDF](https://arxiv.org/pdf/2108.08518.pdf) | - |
 | Uncertainty-Aware Semi-Supervised Few Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2110.08954.pdf) | - |
+| Cost Aggregation Is All You Need for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2112.11685.pdf) | [CODE](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer) |
 
 
 ## 2020
