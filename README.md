@@ -2,6 +2,12 @@
 
 *NOTE:* If your paper is not in the list, plese feel free to [raise an issue](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers/issues) or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%fewshot%papers).
 
+## 2022
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Learning What Not to Segment: A New Perspective on Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/abs/2203.07615) | [CODE](https://github.com/chunbolang/BAM) |
+
+
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
