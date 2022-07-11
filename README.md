@@ -8,6 +8,7 @@
 | Generalized Few-shot Semantic Segmentation | CVPR | [PDF](https://jiaya.me/papers/cvpr22_zhuotao.pdf) | [CODE](https://github.com/dvlab-research/GFS-Seg)
 | Integrative Few-Shot Learning for Classification and Segmentation | CVPR | [PDF](https://arxiv.org/abs/2203.15712) | [CODE](https://github.com/dahyun-kang/ifsl) |
 | Learning What Not to Segment: A New Perspective on Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/abs/2203.07615) | [CODE](https://github.com/chunbolang/BAM) |
+| APANet: Adaptive Prototypes Alignment Network for Few-Shot Semantic Segmentation | TMM | [PDF](https://ieeexplore.ieee.org/document/9773019) | - |
 | MSANet: Multi-Similarity and Attention Guidance for Boosting Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2206.09667.pdf) | [CODE](https://github.com/AIVResearch/MSANet) |
 
 
