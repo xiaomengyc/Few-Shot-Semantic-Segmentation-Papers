@@ -11,6 +11,8 @@
 ## 2022
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Singular Value Fine-tuning: Few-shot Segmentation requires Few-parameters Fine-tuning | NeurIPS | [PDF](https://arxiv.org/pdf/2206.06122.pdf) | [CODE](https://github.com/syp2ysy/SVF) |
+| Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2207.10866.pdf) | [CODE](https://seokju-cho.github.io/VAT/) |
 | Cross-Domain Few-Shot Semantic Segmentation | ECCV | [PDF](https://slei109.github.io/papers/eccv-cdfss.pdf) | [CODE](https://github.com/slei109/PATNet) |
 | Self-Support Few-Shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2207.11549.pdf) | [CODE](https://github.com/fanq15/SSP) |
 | Generalized Few-shot Semantic Segmentation | CVPR | [PDF](https://jiaya.me/papers/cvpr22_zhuotao.pdf) | [CODE](https://github.com/dvlab-research/GFS-Seg)
@@ -42,7 +44,6 @@
 | Few-Shot Segmentation with Global and Local Contrastive Learning | arXiv | [PDF](https://arxiv.org/pdf/2108.05293.pdf) | - |
 | Few-shot Segmentation with Optimal Transport Matching and Message Flow | arXiv | [PDF](https://arxiv.org/pdf/2108.08518.pdf) | - |
 | Uncertainty-Aware Semi-Supervised Few Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2110.08954.pdf) | - |
-| Cost Aggregation Is All You Need for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2112.11685.pdf) | [CODE](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer) |
 
 
 ## 2020
