@@ -5,6 +5,7 @@
 ## 2022
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Cross-Domain Few-Shot Semantic Segmentation | ECCV | [PDF](https://slei109.github.io/papers/eccv-cdfss.pdf) | [CODE](https://github.com/slei109/PATNet) |
 | Self-Support Few-Shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2207.11549.pdf) | [CODE](https://github.com/fanq15/SSP) |
 | Generalized Few-shot Semantic Segmentation | CVPR | [PDF](https://jiaya.me/papers/cvpr22_zhuotao.pdf) | [CODE](https://github.com/dvlab-research/GFS-Seg)
 | Integrative Few-Shot Learning for Classification and Segmentation | CVPR | [PDF](https://arxiv.org/abs/2203.15712) | [CODE](https://github.com/dahyun-kang/ifsl) |
