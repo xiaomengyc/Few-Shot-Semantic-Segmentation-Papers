@@ -15,6 +15,7 @@
 | Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2207.10866.pdf) | [CODE](https://seokju-cho.github.io/VAT/) |
 | Cross-Domain Few-Shot Semantic Segmentation | ECCV | [PDF](https://slei109.github.io/papers/eccv-cdfss.pdf) | [CODE](https://github.com/slei109/PATNet) |
 | Self-Support Few-Shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2207.11549.pdf) | [CODE](https://github.com/fanq15/SSP) |
+| Interclass Prototype Relation for Few-Shot Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2211.08681.pdf) | [CODE](http://fss-stat.s3-website-us-east-1.amazonaws.com/IPRNet.zip) |
 | Generalized Few-shot Semantic Segmentation | CVPR | [PDF](https://jiaya.me/papers/cvpr22_zhuotao.pdf) | [CODE](https://github.com/dvlab-research/GFS-Seg)
 | Integrative Few-Shot Learning for Classification and Segmentation | CVPR | [PDF](https://arxiv.org/abs/2203.15712) | [CODE](https://github.com/dahyun-kang/ifsl) |
 | Learning What Not to Segment: A New Perspective on Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/abs/2203.07615) | [CODE](https://github.com/chunbolang/BAM) |
