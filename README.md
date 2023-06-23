@@ -79,7 +79,8 @@
 ## 2019
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
-| A deep one-shot network for query-based logo retrieval | PR | [PDF](https://arxiv.org/pdf/1811.01395.pdf) | - |
+|Attention-Based Multi-Context Guiding for Few-Shot Semantic Segmentation|AAAI|[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/4860)|[CODE](https://github.com/dongzhuoyao/tensorpack/tree/deeplab/examples/one-shot-seg)|
+| A deep one-shot network for query-based logo retrieval | PR | [PDF](https://arxiv.org/pdf/1811.01395.pdf) |-|
 | PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_PANet_Few-Shot_Image_Semantic_Segmentation_With_Prototype_Alignment_ICCV_2019_paper.pdf) | [CODE](https://github.com/kaixin96/PANet) |
 | Pyramid Graph Networks with Connection Attentions for Region-Based One-Shot Semantic Segmentation | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Pyramid_Graph_Networks_With_Connection_Attentions_for_Region-Based_One-Shot_Semantic_ICCV_2019_paper.pdf)| - |
 | AMP: Adaptive Masked Proxies for Few-Shot Segmentation | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Siam_AMP_Adaptive_Masked_Proxies_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) | [CODE](https://github.com/MSiam/AdaptiveMaskedProxies) |
