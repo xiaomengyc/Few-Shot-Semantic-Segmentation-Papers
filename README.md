@@ -28,9 +28,10 @@
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Few-shot Semantic Segmentation with Self-supervision from Pseudo-classes | BMVC | [PDF](https://www.bmvc2021-virtualconference.com/assets/papers/0595.pdf) | [CODE](https://github.com/kate-sann5100/SS_few_shot) |
 | Rich Embedding Features for One-Shot Semantic Segmentation | TNNLS | [PDF](https://ieeexplore.ieee.org/abstract/document/9463398) | - |
 | Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer| ICCV | [PDF](https://arxiv.org/pdf/2108.03032.pdf) | [CODE](https://github.com/zhiheLu/CWT-for-FSS) |
-| Hypercorrelation Squeeze for Few-Shot Segmenation | ICCV | [PDF](https://arxiv.org/pdf/2104.01538.pdf) | [CODE](https://github.com/juhongm999/hsnet) |
+| Hypercorrelation Squeeze for Few-Shot Segmentation | ICCV | [PDF](https://arxiv.org/pdf/2104.01538.pdf) | [CODE](https://github.com/juhongm999/hsnet) |
 | Mining Latent Classes for Few-shot Segmentation | ICCV | [PDF](https://arxiv.org/pdf/2103.15402.pdf) | [CODE](https://github.com/LiheYoung/MiningFSS) |
 | Few-Shot Semantic Segmentation with Cyclic Memory Network | ICCV | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_Few-Shot_Semantic_Segmentation_With_Cyclic_Memory_Network_ICCV_2021_paper.pdf) | - |
 | Learning Meta-class Memory for Few-Shot Semantic Segmentation | ICCV | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Meta-Class_Memory_for_Few-Shot_Semantic_Segmentation_ICCV_2021_paper.pdf) | [CODE](https://github.com/wu-zhonghua/MM-Net) |
@@ -52,6 +53,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Prior Guided Feature Enrichment Network for Few-Shot Segmentation | TPAMI | [PDF](https://arxiv.org/abs/2008.01449) | [CODE](https://github.com/dvlab-research/PFENet) |
 | Dynamic Extension Nets for Few-shot Semantic Segmentation | MM | [PDF](https://dl.acm.org/doi/abs/10.1145/3394171.3413915) | [CODE](https://github.com/lizhaoliu-Lec/DENet) |
 | Semi-supervised few-shot learning for medical image segmentation | arXiv | [PDF](https://arxiv.org/pdf/2003.08462.pdf) | [CODE](https://github.com/fayjie92/FSMS-Surrogate) |
 | Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need? | arXiv | [PDF](https://arxiv.org/pdf/2012.06166.pdf) | [CODE](https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation) |
