@@ -15,7 +15,6 @@
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | Self-Supervised Learning for Few-Shot Medical Image Segmentation | TMI | [PDF](https://ieeexplore.ieee.org/document/9709261) | - |
-| Few-shot Medical Image Segmentation with Cycle-resemblance Attention | WACV | [PDF](https://arxiv.org/pdf/2212.03967.pdf) | - |
 | Singular Value Fine-tuning: Few-shot Segmentation requires Few-parameters Fine-tuning | NeurIPS | [PDF](https://arxiv.org/pdf/2206.06122.pdf) | [CODE](https://github.com/syp2ysy/SVF) |
 | Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2207.10866.pdf) | [CODE](https://seokju-cho.github.io/VAT/) |
 | Cross-Domain Few-Shot Semantic Segmentation | ECCV | [PDF](https://slei109.github.io/papers/eccv-cdfss.pdf) | [CODE](https://github.com/slei109/PATNet) |
