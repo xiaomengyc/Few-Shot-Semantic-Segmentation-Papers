@@ -98,6 +98,7 @@
 | :-----|:-----:|:---:|:----:|
 | Conditional networks for few-shot semantic segmentation | ICLRW | [PDF](https://openreview.net/pdf?id=SkMjFKJwG) |  [CODE](https://github.com/shelhamer/revolver)  |
 | Few-Shot Semantic Segmentation with Prototype Learning | BMVC | [PDF](http://bmvc2018.org/contents/papers/0255.pdf) | - |
+| Few-Shot Segmentation Propagation with Guided Networks | - | [PDF](https://arxiv.org/pdf/1806.07373.pdf) | [CODE](https://github.com/shelhamer/revolver) |
 
 ## 2017
 | Title | Venue | PDF | CODE |
