@@ -78,6 +78,7 @@
 | Differentiable Meta-learning Model for Few-shot Semantic Segmentation | AAAI | [PDF](https://arxiv.org/pdf/1911.10371.pdf) | - |
 | Prototype Refinement Network for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2002.03579.pdf) | - |
 | Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings | IJCAI | [PDF](https://www.ijcai.org/Proceedings/2020/0120.pdf) | - |
+| Guided Networks for Few-Shot Image Segmentation and Fully Connected CRFs | MDPI Electronics | [PDF](https://www.mdpi.com/2079-9292/9/9/1508) | - |
 
 
 ## 2019
