@@ -7,6 +7,8 @@
 | :-----|:-----:|:---:|:----:|
 | Few Shot Semantic Segmentation: a review of methodologies and open challenges | arXiv | [PDF](https://arxiv.org/pdf/2304.05832.pdf) | - |
 | Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation | WACV | [PDF](https://arxiv.org/abs/2211.02300) | - |
+| Self-regularized prototypical network for few-shot semantic segmentation | PR | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320322004988) | - |
+| Few-shot Medical Image Segmentation with Cycle-resemblance Attention | WACV | [PDF](https://arxiv.org/abs/2212.03967) | - |
 
 
 ## 2022
