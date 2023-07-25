@@ -14,6 +14,7 @@
 ## 2022
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf) | - |
 | Self-Supervised Learning for Few-Shot Medical Image Segmentation | TMI | [PDF](https://ieeexplore.ieee.org/document/9709261) | - |
 | Singular Value Fine-tuning: Few-shot Segmentation requires Few-parameters Fine-tuning | NeurIPS | [PDF](https://arxiv.org/pdf/2206.06122.pdf) | [CODE](https://github.com/syp2ysy/SVF) |
 | Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2207.10866.pdf) | [CODE](https://seokju-cho.github.io/VAT/) |
