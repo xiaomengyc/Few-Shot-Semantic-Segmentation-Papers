@@ -8,12 +8,15 @@
 | A Strong Baseline for Generalized Few-Shot Semantic Segmentation | CVPR | [PDF](https://arxiv.org/abs/2211.14126) | [CODE](https://github.com/sinahmr/DIaM)|
 | Few Shot Semantic Segmentation: a review of methodologies and open challenges | arXiv | [PDF](https://arxiv.org/pdf/2304.05832.pdf) | - |
 | Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation | WACV | [PDF](https://arxiv.org/abs/2211.02300) | - |
+| Self-regularized prototypical network for few-shot semantic segmentation | PR | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320322004988) | - |
+| Few-shot Medical Image Segmentation with Cycle-resemblance Attention | WACV | [PDF](https://arxiv.org/abs/2212.03967) | - |
 
 
 ## 2022
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
-| Few-shot Medical Image Segmentation with Cycle-resemblance Attention | WACV | [PDF](https://arxiv.org/pdf/2212.03967.pdf) | - |
+| Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf) | - |
+| Self-Supervised Learning for Few-Shot Medical Image Segmentation | TMI | [PDF](https://ieeexplore.ieee.org/document/9709261) | - |
 | Singular Value Fine-tuning: Few-shot Segmentation requires Few-parameters Fine-tuning | NeurIPS | [PDF](https://arxiv.org/pdf/2206.06122.pdf) | [CODE](https://github.com/syp2ysy/SVF) |
 | Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2207.10866.pdf) | [CODE](https://seokju-cho.github.io/VAT/) |
 | Cross-Domain Few-Shot Semantic Segmentation | ECCV | [PDF](https://slei109.github.io/papers/eccv-cdfss.pdf) | [CODE](https://github.com/slei109/PATNet) |
@@ -65,7 +68,6 @@
 | FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation | CVPR | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_FSS-1000_A_1000-Class_Dataset_for_Few-Shot_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/HKUSTCV/FSS-1000) |
 | Few-Shot Semantic Segmentation with Democratic Attention Networks | ECCV | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580715.pdf) | - |
 | Prototype Mixture Models for Few-shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2008.03898.pdf) | [CODE](https://github.com/Yang-Bob/PMMs) |
-|  PFENet: Prior Guided Feature Enrichment Network for Few-shot Segmentation| TPAMI | [PDF](https://arxiv.org/pdf/2008.01449.pdf) | [CODE](https://github.com/Jia-Research-Lab/PFENet) |
 | Part-aware Prototype Network for Few-shot Semantic Segmentation | ECCV | [PDF](https://arxiv.org/pdf/2007.06309.pdf) | [CODE](https://github.com/Xiangyi1996/PPNet-PyTorch) |
 | SimPropNet: Improved Similarity Propagation for Few-shot Image Segmentation | IJCAI | [PDF](https://arxiv.org/pdf/2004.15014.pdf) | - |
 | Objectness-Aware One-Shot Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2004.02945.pdf) | - |
@@ -77,6 +79,7 @@
 | Differentiable Meta-learning Model for Few-shot Semantic Segmentation | AAAI | [PDF](https://arxiv.org/pdf/1911.10371.pdf) | - |
 | Prototype Refinement Network for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2002.03579.pdf) | - |
 | Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings | IJCAI | [PDF](https://www.ijcai.org/Proceedings/2020/0120.pdf) | - |
+| Guided Networks for Few-Shot Image Segmentation and Fully Connected CRFs | MDPI Electronics | [PDF](https://www.mdpi.com/2079-9292/9/9/1508) | - |
 
 
 ## 2019
@@ -98,6 +101,7 @@
 | :-----|:-----:|:---:|:----:|
 | Conditional networks for few-shot semantic segmentation | ICLRW | [PDF](https://openreview.net/pdf?id=SkMjFKJwG) |  [CODE](https://github.com/shelhamer/revolver)  |
 | Few-Shot Semantic Segmentation with Prototype Learning | BMVC | [PDF](http://bmvc2018.org/contents/papers/0255.pdf) | - |
+| Few-Shot Segmentation Propagation with Guided Networks | - | [PDF](https://arxiv.org/pdf/1806.07373.pdf) | [CODE](https://github.com/shelhamer/revolver) |
 
 ## 2017
 | Title | Venue | PDF | CODE |
